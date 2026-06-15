@@ -147,10 +147,10 @@
     <string name="lunaris_processor_code_title">Processor</string>
     <string name="lunaris_battery_type_title">Battery</string>
     <string name="lunaris_screen_title">Screen</string>
-    <string name="lunaris_device_message">ICorn 10 Pro Max</string>
-    <string name="lunaris_processor_code_message">Chicken Nuggets® 52</string>
-    <string name="lunaris_battery_type_message">15000 mAh</string>
-    <string name="lunaris_screen_message">Cathode Ray Tube 24hz</string>
+    <string name="lunaris_device_message">Poco F6</string>
+    <string name="lunaris_processor_code_message">Snapdragon® 8s Gen 3 SM8635</string>
+    <string name="lunaris_battery_type_message">5000 mAh</string>
+    <string name="lunaris_screen_message">AMOLED, 120Hz</string>
     <string name="lunaris_build_type">Build Package Type</string>
 
     <!-- Data Usage Cycle -->
