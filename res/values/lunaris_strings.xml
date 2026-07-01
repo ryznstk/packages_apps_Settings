@@ -239,4 +239,36 @@
     <!-- Per-app GPU composition -->
     <string name="use_gpu_for_screen_composition_title">Use GPU for screen composition</string>
     <string name="use_gpu_for_screen_composition_summary">Select apps that should disable HW overlays while in use</string>
+
+    <!-- Expanded Dark theme exceptions -->
+    <string name="dark_theme_per_app_title">Expanded mode exceptions</string>
+    <string name="dark_theme_per_app_summary">Choose apps that keep their own appearance instead of using expanded Dark theme</string>
+
+    <!-- App list fragment -->
+    <string name="app_list_search">Search</string>
+    <string name="app_list_search_apps">Search apps</string>
+    <string name="app_list_loading">Loading apps\u2026</string>
+
+    <!-- Display settings screen, color balance category title [CHAR LIMIT=30] -->
+    <string name="color_mode_advanced_category">Advanced controls</string>
+    <!-- Display settings screen, red color balance setting slider [CHAR LIMIT=NONE] -->
+    <string name="color_mode_balance_red">Red strength</string>
+    <!-- Display settings screen, green color balance setting slider [CHAR LIMIT=NONE] -->
+    <string name="color_mode_balance_green">Green strength</string>
+    <!-- Display settings screen, blue color balance setting slider [CHAR LIMIT=NONE] -->
+    <string name="color_mode_balance_blue">Blue strength</string>
+    <string name="keywords_color_balance">color, color balance, color correction, red, green, blue, LiveDisplay</string>
+
+    <!-- Color temperature -->
+    <string name="color_temperature_title">Color temperature</string>
+    <string name="color_temperature_start_label">Warm</string>
+    <string name="color_temperature_end_label">Cool</string>
+    <string name="keywords_color_temperature">color, color temperature, warm, cool, LiveDisplay</string>
+    <string name="color_hue_title">Hue</string>
+    <string name="color_contrast_title">Contrast</string>
+    <string name="color_picture_brightness_title">Picture brightness</string>
+
+    <!-- Color saturation -->
+    <string name="color_saturation_title">Saturation</string>
+    <string name="keywords_color_saturation">color, color temperature, warm, cool, LiveDisplay</string>
 </resources>
